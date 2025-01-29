@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>SP</Name>
+		<Assembly>W:\\BIM_СмартПроект\\07_Плагины (Addons)\\SP\\2025.01.17\\SP_Addin.dll</Assembly>
+		<AddInId>14B3D741-FE94-4EC7-86F3-F77820C08697</AddInId>
+		<FullClassName>SP_Addin.SP_RibbonUI</FullClassName>
+		<VendorId>Kanukhin Aleksandr</VendorId>
+		<VendorDescription>kanuhin@smartproekt.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
