@@ -2,7 +2,7 @@
 <RevitAddIns>
 	<AddIn Type="Application">
 		<Name>SP</Name>
-		<Assembly>W:\\BIM_СмартПроект\\07_Плагины (Addons)\\SP\\R2022\\2025.02.26\\SP_Addin.dll</Assembly>
+		<Assembly>W:\\BIM_СмартПроект\\07_Плагины (Addons)\\SP\\R2022\\2025.02.26_2\\SP_Addin.dll</Assembly>
 		<AddInId>14B3D741-FE94-4EC7-86F3-F77820C08697</AddInId>
 		<FullClassName>SP_Addin.SP_RibbonUI</FullClassName>
 		<VendorId>Kanukhin Aleksandr</VendorId>
